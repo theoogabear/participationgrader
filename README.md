@@ -4,4 +4,4 @@ I made this so that I could quickly grade a kids' participation for the week bas
 
 ### Dependencies
 
-You need the [huh](https://github.com/charmbracelet/huh) library from charmed to use this.
+You need the [huh](https://github.com/charmbracelet/huh) library from [charm bracelet](https://github.com/charmbracelet/bubbletea) to use this.
